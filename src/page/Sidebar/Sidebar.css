@@ -1,0 +1,27 @@
+.sidebar {
+    width: 150px;
+    height: 935px;
+    top: 938px;
+    background: #191718;
+}
+.sidebarList {
+    width: 150px;
+    height: 44px;
+    top: 938px;
+}
+.sidebarList span {
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    font-weight: 700;
+    line-height: 18.75px;
+    position: relative;
+    Width:43px;
+    Height: 19px;
+    Top:14px;
+    Left:16px;
+}
+hr {
+    border: 1px solid #5C5C5C;
+    margin: 0;
+}

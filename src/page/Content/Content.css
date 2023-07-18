@@ -1,0 +1,77 @@
+.Content {
+    width: 1768px;
+    height: 935px;
+    background: #FFFFFF;
+}
+.ContenImg  {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.logo {
+    width: 310px;
+    height: 122px; 
+}
+.ContenGroup1 {
+    margin-left: 120px;
+    width: 1510px;
+    height: 210px;
+    background: #EFEFEF;
+}
+.ContenGroup1 h3 {
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+.Contentextall {
+    display: flex;
+    width: 972px;
+    margin-left: 265px;
+}
+.Contentext {
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.ContenGroup2 {
+    display: flex;
+    justify-content: center;
+    margin: 22px 0px 145px 0px;
+}
+.ListTextConten {
+    Width:470px;
+    Height:284px;
+    margin: 20px;
+}
+.imglist {
+    width: 128px;
+    height: 128px;
+    
+}
+.TextImg {
+    display: flex;
+}
+p {
+    margin: 0px;
+}
+.text  {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
